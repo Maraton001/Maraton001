@@ -1,4 +1,4 @@
-: iwtm-officer                 ldap-user         iwdm-admin(Ad/Domain Ad)        user-agent                 user-gp     
+: iwtm-officer                 ldap-user         iwdm-admin(Ad/Domain Ad)        user-agent                 user-gp       нат включить у гп и агента
   IWTM- 99.15                                          AD- 99.100               agent-99.30                gp-99.31
   шлюз и основной 99.100
   Device monitor- галки основной сервер и и устновить  нью базу данных  далее постгре скюэл
